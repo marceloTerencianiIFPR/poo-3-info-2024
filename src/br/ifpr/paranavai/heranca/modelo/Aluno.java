@@ -1,6 +1,6 @@
 package br.ifpr.paranavai.heranca.modelo;
 
-public class Aluno {
+public class Aluno extends Pessoa {
 	private String nome;
 	private String cpf;
 	private int matricula;
